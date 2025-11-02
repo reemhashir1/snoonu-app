@@ -1,6 +1,0 @@
-requirements
-
-tensorflow==2.15.0
-gradio==4.44.0
-pillow
-numpy
